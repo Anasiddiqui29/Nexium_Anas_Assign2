@@ -14,7 +14,7 @@ A full-stack Next.js 14 application that:
 
 ## 📸 Demo
 
-> Live: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+> Live: https://nexium-anas-assign2-two.vercel.app/ 
 > *(replace with actual link after deployment)*
 
 ---
